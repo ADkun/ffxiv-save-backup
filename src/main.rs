@@ -1,4 +1,4 @@
-use ffsavebackup::{win, util};
+use ffxivsavebackup::{win, util};
 use std::path::PathBuf;
 
 const GAME_NAME: &str = "ffxiv_dx11.exe";
