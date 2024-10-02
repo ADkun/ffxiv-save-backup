@@ -13,3 +13,6 @@ FF14 存档备份工具是一个用于备份FF14存档的工具。
     ```
     cargo install https://github.com/ADkun/ffxiv-save-backup
     ```
+3. 在Windows系统中，`cargo install`命令会将可执行文件安装到`C:\Users\<用户名>\.cargo\bin`目录下。
+   你可以将该目录加入到环境变量PATH中，然后打开cmd，输入`ffxivsavebackup`运行工具。
+   也可以打开所在目录，双击运行`ffxivsavebackup.exe`文件。
